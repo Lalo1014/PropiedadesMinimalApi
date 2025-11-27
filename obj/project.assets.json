@@ -20,19 +20,6 @@
           }
         }
       },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
-        "type": "package",
-        "dependencies": {
-          "AutoMapper": "[12.0.1]",
-          "Microsoft.Extensions.Options": "6.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
-        }
-      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -1627,20 +1614,6 @@
         "lib/net9.0/AutoMapper.xml",
         "lib/netstandard2.0/AutoMapper.dll",
         "lib/netstandard2.0/AutoMapper.xml"
-      ]
-    },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
-      "sha512": "+g/K+Vpe3gGMKGzjslMOdqNlkikScDjWfVvmWTayrDHaG/n2pPmFBMa+jKX1r/h6BDGFdkyRjAuhFE3ykW+r1g==",
-      "type": "package",
-      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
-        "automapper.extensions.microsoft.dependencyinjection.nuspec",
-        "icon.png",
-        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
     "Azure.Core/1.38.0": {
@@ -4285,7 +4258,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 15.1.0",
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "FluentValidation.DependencyInjectionExtensions >= 12.1.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.21",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.22",
@@ -4294,23 +4266,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sistemas Auxiliar\\.nuget\\packages\\": {},
+    "C:\\Users\\eduar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\PropiedadesMinimalApi.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\PropiedadesMinimalApi.csproj",
       "projectName": "PropiedadesMinimalApi",
-      "projectPath": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\PropiedadesMinimalApi.csproj",
-      "packagesPath": "C:\\Users\\Sistemas Auxiliar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\obj\\",
+      "projectPath": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\PropiedadesMinimalApi.csproj",
+      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sistemas Auxiliar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4347,10 +4319,6 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[15.1.0, )"
-          },
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-            "target": "Package",
-            "version": "[12.0.1, )"
           },
           "FluentValidation.DependencyInjectionExtensions": {
             "target": "Package",
@@ -4397,17 +4365,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requiere AutoMapper (= 12.0.1), pero la versión AutoMapper 15.1.0 ya se resolvió.",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

@@ -1,57 +1,91 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\",
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\sistemas auxiliar\\documents\\curos api rest\\propiedadesminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\sistemas auxiliar\\documents\\curos api rest\\propiedadesminimalapi\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\mapas\\configuracionmapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:mapas\\configuracionmapas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\sistemas auxiliar\\documents\\curos api rest\\propiedadesminimalapi\\datos\\datospropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:datos\\datospropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Migrations\\20251126233701_CreacionTablaPropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251126233701_CreacionTablaPropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\sistemas auxiliar\\documents\\curos api rest\\propiedadesminimalapi\\modelo\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\modelo\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:modelo\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\sistemas auxiliar\\documents\\curos api rest\\propiedadesminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:datos\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|c:\\users\\eduar\\documents\\github\\propiedadesminimalapi\\datos\\datospropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853DD82C-F3CE-42A7-B404-3F70AB9C071F}|PropiedadesMinimalApi.csproj|solutionrelative:datos\\datospropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 206,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguracionMapas.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Mapas\\ConfiguracionMapas.cs",
+              "RelativeDocumentMoniker": "Mapas\\ConfiguracionMapas.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Mapas\\ConfiguracionMapas.cs",
+              "RelativeToolTip": "Mapas\\ConfiguracionMapas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:57:43.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251126233701_CreacionTablaPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Migrations\\20251126233701_CreacionTablaPropiedad.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126233701_CreacionTablaPropiedad.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Migrations\\20251126233701_CreacionTablaPropiedad.cs",
+              "RelativeToolTip": "Migrations\\20251126233701_CreacionTablaPropiedad.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:37:02.186Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwGEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T19:28:16.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DatosPropiedad.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Datos\\DatosPropiedad.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Datos\\DatosPropiedad.cs",
               "RelativeDocumentMoniker": "Datos\\DatosPropiedad.cs",
-              "ToolTip": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Datos\\DatosPropiedad.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Datos\\DatosPropiedad.cs",
               "RelativeToolTip": "Datos\\DatosPropiedad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,24 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Propiedad.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Modelo\\Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Modelo\\Propiedad.cs",
               "RelativeDocumentMoniker": "Modelo\\Propiedad.cs",
-              "ToolTip": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Modelo\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Modelo\\Propiedad.cs",
               "RelativeToolTip": "Modelo\\Propiedad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T19:24:24.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Datos\\AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Datos\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "Datos\\AplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\Datos\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\Datos\\AplicationDbContext.cs",
               "RelativeToolTip": "Datos\\AplicationDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwBUAAACtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Sistemas Auxiliar\\Documents\\Curos API Rest\\PropiedadesMinimalApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\GitHub\\PropiedadesMinimalApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-26T19:20:31.511Z",
               "EditorCaption": ""
